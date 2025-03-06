@@ -1,0 +1,21 @@
+# Ignorar arquivos do sistema Windows e temporários
+Thumbs.db
+.DS_Store
+desktop.ini
+ntuser.dat*
+AppData/
+OneDrive/
+Saved Games/
+Videos/
+Music/
+Downloads/
+Documents/
+
+# Ignorar arquivos do VS Code
+.vscode/
+*.lnk
+*.url
+*.log
+
+# Ignorar todos os arquivos ocultos do sistema
+.*
